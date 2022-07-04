@@ -16,3 +16,5 @@ This repository contains standard machine learning models implemented from scrat
 - GMM (Gaussian Mixture Model)
 - GMM using result of K-means as starting centroids
 - PCA (Principal Component Analysis)
+- HMM - Viterbi algorithm
+- HMM - evaluation problem
