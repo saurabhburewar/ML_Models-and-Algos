@@ -1,4 +1,4 @@
-## HMM Algorithms
+# HMM Algorithms
 
 
 ## Viterbi Algorithm
