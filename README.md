@@ -17,4 +17,8 @@ This repository contains standard machine learning models implemented from scrat
 - GMM using result of K-means as starting centroids
 - PCA (Principal Component Analysis)
 - HMM - Viterbi algorithm
-- HMM - evaluation problem
+- HMM - Evaluation problem
+- HMM - Training
+- Kalman filter (1D, 2D and 3D)
+- Time series forecasting - ARIMA
+- Time series forecasting - Holt Winters method
